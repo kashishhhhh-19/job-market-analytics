@@ -5,7 +5,7 @@ import pandas as pd
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="MyNewPass@1234",
+    password="YOUR_MYSQL_PASSWORD",
     database="job_market"
 )
 
