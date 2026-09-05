@@ -41,6 +41,8 @@ The Job Market Analytics project stores job listing data in MySQL, analyzes it u
 
 ## 📊 Dashboard
 
+![Job Market Analytics Dashboard](dashboard.png)
+
 The Power BI dashboard provides visual insights into:
 
 * Total Jobs
